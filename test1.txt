@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is A6FC-1397
+
+ Directory of C:\Users\shravan.veeresh\git\repository
+
+10/22/2019  10:47 PM    <DIR>          .
+10/22/2019  10:47 PM    <DIR>          ..
+10/22/2019  06:58 PM    <DIR>          Automation
+10/22/2019  10:47 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  174,357,286,912 bytes free
